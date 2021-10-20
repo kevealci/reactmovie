@@ -3,7 +3,7 @@ You can search for your favorite movies and find out some details such as: lengt
 ## Available Scripts
 
 If you want to clone the project in order to use it, you must create an account in [The Movie Database](https://www.themoviedb.org/) and request a key.
-You must also create an .env file in the root of the project and write the following: REACT_APP_API_KEY=INSERT_KEY_HERE
+You must also create an .env file in the root of the project and put the requested key: REACT_APP_API_KEY=INSERT_KEY_HERE
 
 In the project directory, you can run:
 
